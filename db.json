@@ -102,7 +102,7 @@
             "source_name": null,
             "source_logo_url": null,
             "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.eldiario.es&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "categoria": "actualidad"
+            "category": "actualidad"
         },
         {
             "id": "9",
@@ -115,7 +115,7 @@
             "source_name": null,
             "source_logo_url": null,
             "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://elpais.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "categoria": "actualidad"
+            "category": "actualidad"
         },
         {
             "id": "10",
@@ -128,7 +128,7 @@
             "source_name": null,
             "source_logo_url": "https://lh3.googleusercontent.com/MyxKUAVF6hd_Uxp1SehV-NO3tlR9ks8B5jFrvIRDIyE-XMrVo2h3WkxN6t5z3e7bQqXuOxFHKQ",
             "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marca.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "categoria": "actualidad"
+            "category": "actualidad"
         }
     ]
 }
